@@ -1,0 +1,9 @@
+{
+	"name": "firstadf-book-df",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb9a3ca8-e001-4e07-ac37-270c615033ba",
+		"tenantId": "b7f32deb-b421-476e-b6b8-bc5b61c9ea58"
+	}
+}
