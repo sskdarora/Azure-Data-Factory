@@ -1,0 +1,7 @@
+{
+	"name": "first-pipeline",
+	"properties": {
+		"description": "first-pipeline to be created to learn more about ADF",
+		"annotations": []
+	}
+}
